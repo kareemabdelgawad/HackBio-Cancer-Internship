@@ -24,7 +24,7 @@ Bactericidal agents kill bacteria directly, the vegetative cell and spore cell.
 
 Bacteriostatic agents inhibit the growth and reproduction of bacteria without necessarily killing them. They prevent bacteria from multiplying.
 
-**Gram positive and Gram-negative bacteria **
+**Gram positive** **and** **Gram-negative bacteria**
 
 Bacteria are classified based on their cell wall structure, which is identified using the Gram stain. Gram-positive bacteria have a thick peptidoglycan layer in their cell wall,  giving the crystal violet dye and appearing purple under the microscope. Examples include *Staphylococcus aureus* and *Streptococcus pneumoniae*. Gram-negative bacteria have a thinner peptidoglycan layer and an outer membrane containing lipopolysaccharides (LPS), which can trigger strong immune responses. They appear pink or red after staining. Examples include *Escherichia coli* and *Pseudomonas aeruginosa*. This classification is crucial for determining antibiotic susceptibility and understanding bacterial pathogenicity.\[5\], \[6\]
 
