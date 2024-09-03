@@ -39,6 +39,8 @@ MIC is the lowest concentration of an antibiotic that inhibits bacterial growth,
 **EUCAST vs. CLSI**
 
 These are two different guidelines for interpreting antibiotic susceptibility tests. EUCAST (European Committee on Antimicrobial Susceptibility Testing) and CLSI (Clinical and Laboratory Standards Institute).\[7\]
+**Conclusion**
+Effective infection management is critical for oncology patients due to their high risk of severe infections and complications from drug-resistant bacteria. Understanding the mechanisms of antibiotics, such as aminoglycosides, quinolones, and beta-lactams, and distinguishing between bactericidal and bacteriostatic effects helps guide appropriate treatment. The classification of bacteria into Gram-positive and Gram-negative is essential for selecting effective antibiotics. Additionally, techniques like serial dilution, and understanding MIC and MBC values, help optimize dosing. Following guidelines from EUCAST and CLSI ensures accurate antibiotic use. Mastery of these concepts is crucial to improving patient outcomes and reducing infection-related deaths in cancer care.
 
 **References** 
 
