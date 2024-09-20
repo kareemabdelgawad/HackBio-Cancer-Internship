@@ -133,8 +133,7 @@
   133  git pushorigin main 
   134  git push origin name 
   135  git push origin main 
-  136  git remote set url origin https://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@github.com/kareemabdelgawad/HackBio-Cancer-Internship
-  137  git remote set-url origin https://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@github.com/kareemabdelgawad/HackBio-Cancer-Internship
+  
   138  cd output/
   139  git push origin main
   140  ../
@@ -204,6 +203,6 @@
   204  git add output/kareem.fasta
   205  git commit -m "nucleotide counts file"
   206  git push origin main
-  207  git remote set-url origin https://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@github.com/kareemabdelgawad/HackBio-Cancer-Internship
+ 
   208  git push origin main
   244  history > kareem.sh
