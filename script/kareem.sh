@@ -132,8 +132,7 @@
   132  git status
   133  git pushorigin main 
   134  git push origin name 
-  135  git push origin main 
-  
+  135  git push origin main   
   138  cd output/
   139  git push origin main
   140  ../
@@ -203,6 +202,5 @@
   204  git add output/kareem.fasta
   205  git commit -m "nucleotide counts file"
   206  git push origin main
- 
   208  git push origin main
-  244  history > kareem.sh
+  209  history > kareem.sh
